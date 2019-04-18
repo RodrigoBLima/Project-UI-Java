@@ -1,8 +1,7 @@
-###Java Design UI
+### Java Design UI  
 
 
-
-###Installing 
+### Installing 
 
 [Download the latest version here](https://github.com/RodrigoBLima/Project-UI-Java)
 
@@ -10,6 +9,6 @@
 
 * **Rodrigo Barbosa** - *Projeto Inicial* - [Rodrigo](https://github.com/RodrigoBLima)
 
-###License
+### License
 
 Este projeto não possui nenhum tipo de licença para uso
