@@ -2,9 +2,9 @@
 
 ### Installing 
 
-[Download the latest version here](https://github.com/RodrigoBLima/Project-UI-Java)
+[Download da versao atualizada aqui](https://github.com/RodrigoBLima/Project-UI-Java)
 
-### Authors
+### Author
 
 * **Rodrigo Barbosa** - *Projeto Inicial* - [Rodrigo](https://github.com/RodrigoBLima)
 
